@@ -40,6 +40,10 @@ The application features full CRUD functionality for campgrounds, user authentic
 - Passport-local-mongoose: Mongoose plugin for simplifying username and password authentication
 - Sanitize-html: Library for sanitizing HTML inputs
 
+## Deployment
+
+This web app is deployed using Render.com by Tiger. You can access the live version of the app at https://yelpcamp-grwi.onrender.com
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
